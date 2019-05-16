@@ -38,6 +38,22 @@
   margin-top:5px;
   font-size: 22pt;
 }
+.left {
+	float:left;
+}
+.right {
+	float:right;
+}
+
+.imgwithspace {
+	margin-right: 20px;
+	border-radius: 15px;
+}
+.imgwithleftspace {
+	margin-left: 20px;
+	margin-top: 30px;
+	border-radius: 15px;
+}
 /* BASE - Base tyles, Variables, Mixins, etc. */
 body {
   background-color: #ffffff;
